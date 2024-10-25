@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Elena! <br/><a href="https://github.com/joshmadakor1">Undergraduate Student at Amherst College </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Mathematics and Computer Science Major</a>
 
-<!--
-**elerawlinson/elerawlinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Low Level Security and Systems Projects (C++, Assembly)</b>
+  - [Praciting DS & Algos in Python]()
+- <b>Data Visualization (Python, Jupyter)</b>
+  - [Image Analysis Middleware]() 
+- <b>Cryptography Algorithm Implementations (Python)</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
+  - [JWipe (Disk Wiping Utility)]()
+- <b>Java Laundry Organization App Demo</b>
+  - [Ransomware Proof of Concept (Encrypter)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: www.linkedin.com/in/elena-rawlinson-67a209203
