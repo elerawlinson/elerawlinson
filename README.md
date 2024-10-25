@@ -7,8 +7,7 @@
 - <b>Data Visualization (Python, Jupyter)</b>
   - [Image Analysis Middleware]() 
 - <b>Cryptography Algorithm Implementations (Python)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
-  - [JWipe (Disk Wiping Utility)]()
+  - [Various Public Key Cryptography Helper Functions and Algorithms](https://github.com/elerawlinson/CryptographyAlgo)
 - <b>Java Laundry Organization App Demo</b>
   - [Ransomware Proof of Concept (Encrypter)]()
 
