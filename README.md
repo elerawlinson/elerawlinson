@@ -4,9 +4,9 @@
 
 - <b>Low Level Security and Systems Projects (C++, Assembly)</b>
   - [Bit Puzzles](https://github.com/elerawlinson/BitPuzzles/tree/main)
-  - [Page Swapping Algorithm]
+  - [Page Swapping Algorithm]()
 - <b>Data Visualization (Python, Jupyter)</b>
-  - [Astronomy Data Analysis Project]()
+  - [Astronomy Data Analysis Project](https://github.com/elerawlinson/Astronomy-Visualizations/tree/main)
   - [BEAM Team Research Visualizations]() 
 - <b>Cryptography Algorithm Implementations (Python)</b>
   - [Various Public Key Cryptography Helper Functions and Algorithms](https://github.com/elerawlinson/CryptographyAlgo)
