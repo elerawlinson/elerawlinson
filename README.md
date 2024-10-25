@@ -3,12 +3,14 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Low Level Security and Systems Projects (C++, Assembly)</b>
-  - [Praciting DS & Algos in Python]()
+  - [Bit Puzzles](https://github.com/elerawlinson/BitPuzzles/tree/main)
+  - [Page Swapping Algorithm]
 - <b>Data Visualization (Python, Jupyter)</b>
-  - [Image Analysis Middleware]() 
+  - [Astronomy Data Analysis Project]()
+  - [BEAM Team Research Visualizations]() 
 - <b>Cryptography Algorithm Implementations (Python)</b>
   - [Various Public Key Cryptography Helper Functions and Algorithms](https://github.com/elerawlinson/CryptographyAlgo)
 - <b>Java Laundry Organization App Demo</b>
-  - [Ransomware Proof of Concept (Encrypter)]()
+  - [Laundry App Demo]()
 
 [linkedin]: www.linkedin.com/in/elena-rawlinson-67a209203
