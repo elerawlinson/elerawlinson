@@ -11,6 +11,6 @@
 - <b>Cryptography Algorithm Implementations (Python)</b>
   - [Various Public Key Cryptography Helper Functions and Algorithms](https://github.com/elerawlinson/CryptographyAlgo)
 - <b>Java Laundry Organization App Demo</b>
-  - [Laundry App Demo]()
+  - [Laundry App Demo](https://github.com/elerawlinson/ACRinse)
 
 [linkedin]: www.linkedin.com/in/elena-rawlinson-67a209203
