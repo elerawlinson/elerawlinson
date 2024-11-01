@@ -7,7 +7,6 @@
   - [Page Swapping Algorithm]()
 - <b>Data Visualization (Python, Jupyter)</b>
   - [Astronomy Data Analysis Project](https://github.com/elerawlinson/Astronomy-Visualizations/tree/main)
-  - [BEAM Team Research Visualizations]() 
 - <b>Cryptography Algorithm Implementations (Python)</b>
   - [Various Public Key Cryptography Helper Functions and Algorithms](https://github.com/elerawlinson/CryptographyAlgo)
 - <b>Java Laundry Organization App Demo</b>
