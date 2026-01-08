@@ -13,10 +13,8 @@ Mathematics and Computer Science Major
 
 - **Low-Level Security and Systems Projects (C++, Assembly)**
   - [Bit Puzzles](https://github.com/elerawlinson/BitPuzzles/tree/main)
-
 - **Cryptography Algorithm Implementations (Python)**
   - [Public Key Cryptography Helper Functions and Algorithms](https://github.com/elerawlinson/CryptographyAlgo)
-
 - **Data Visualization (Python, Jupyter)**
   - [Astronomy Data Analysis Project](https://github.com/elerawlinson/Astronomy-Visualizations/tree/main)
 
