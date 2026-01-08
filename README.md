@@ -6,6 +6,8 @@ Mathematics and Computer Science Major
 
 - **Summer Internship Project: Full-Stack Typeform Replacement**
   - [Typeform Replacement](https://github.com/elerawlinson/strapi-form.git)
+- **Student Research Assistant in Professor Pentecost's Computer Architecture Lab**
+  - [BEAM Team Sample Work](https://github.com/elerawlinson/Research.git)
 
 ## Coursework
 
