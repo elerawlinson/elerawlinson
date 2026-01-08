@@ -11,6 +11,8 @@ Mathematics and Computer Science Major
 
 ## Coursework
 
+-**Emotional Recognition Fine Tuning Project for Deep Learning and Nueral Networks** 
+  - [Emotional Recognition Model](https://github.com/riddhisahni/SpeechEmotionRecognition.git)
 - **Low-Level Security and Systems Projects (C++, Assembly)**
   - [Bit Puzzles](https://github.com/elerawlinson/BitPuzzles/tree/main)
 - **Cryptography Algorithm Implementations (Python)**
