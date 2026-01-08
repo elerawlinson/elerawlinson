@@ -7,9 +7,6 @@ Mathematics and Computer Science Major
 - **Summer Internship Project: Full-Stack Typeform Replacement**
   - [Typeform Replacement](https://github.com/elerawlinson/strapi-form.git)
 
-- **Data Visualization (Python, Jupyter)**
-  - [Astronomy Data Analysis Project](https://github.com/elerawlinson/Astronomy-Visualizations/tree/main)
-
 ## Coursework
 
 - **Low-Level Security and Systems Projects (C++, Assembly)**
@@ -17,6 +14,9 @@ Mathematics and Computer Science Major
 
 - **Cryptography Algorithm Implementations (Python)**
   - [Public Key Cryptography Helper Functions and Algorithms](https://github.com/elerawlinson/CryptographyAlgo)
+
+- **Data Visualization (Python, Jupyter)**
+  - [Astronomy Data Analysis Project](https://github.com/elerawlinson/Astronomy-Visualizations/tree/main)
 
 ---
 
