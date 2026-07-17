@@ -1,6 +1,5 @@
 # Hi, I'm Elena!   
-**Amherst College Alumna**  
-Graduate from Amherst College, where I majored in double-majoring in Mathematics and Computer Science, focused on building things end-to-end, from full-stack applications to fine-tuned deep learning models, and explaining how they work along the way.
+I just graduated from Amherst College, where I majored in double-majoring in Mathematics and Computer Science, focused on building things end-to-end, from full-stack applications to fine-tuned deep learning models, and explaining how they work along the way.
 
 ## AI/ML Work 
 - **Emotional Recognition Fine Tuning Project for Deep Learning and Nueral Networks** 
