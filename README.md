@@ -1,18 +1,21 @@
 # Hi, I'm Elena!   
-**Undergraduate Student at Amherst College**  
-Mathematics and Computer Science Major
+**Amherst College Alumna**  
+Graduate from Amherst College, where I majored in double-majoring in Mathematics and Computer Science, focused on building things end-to-end, from full-stack applications to fine-tuned deep learning models, and explaining how they work along the way.
 
-## Professional Projects
+## AI/ML Work 
+- **Emotional Recognition Fine Tuning Project for Deep Learning and Nueral Networks** 
+  - [Emotional Recognition Model](https://github.com/riddhisahni/SpeechEmotionRecognition.git)
+  - [Read the Blog post I wrote with my team, explaining the motivation and technical aspects of this project](https://medium.com/@benjamin.mingjun/fe9ad9cb1c36)
+
+## Professional Experience
 
 - **Summer Internship Project: Full-Stack Typeform Replacement**
   - [Typeform Replacement](https://github.com/elerawlinson/strapi-form.git)
 - **Student Research Assistant in Professor Pentecost's Computer Architecture Lab**
   - [BEAM Team Sample Work](https://github.com/elerawlinson/Research.git)
 
-## Coursework
+## Additional Technical Projects
 
-- **Emotional Recognition Fine Tuning Project for Deep Learning and Nueral Networks** 
-  - [Emotional Recognition Model](https://github.com/riddhisahni/SpeechEmotionRecognition.git)
 - **Low-Level Security and Systems Projects (C++, Assembly)**
   - [Bit Puzzles](https://github.com/elerawlinson/BitPuzzles/tree/main)
 - **Cryptography Algorithm Implementations (Python)**
