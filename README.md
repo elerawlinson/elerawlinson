@@ -2,7 +2,7 @@
 I just graduated from Amherst College, where I majored in double-majoring in Mathematics and Computer Science, focused on building things end-to-end, from full-stack applications to fine-tuned deep learning models, and explaining how they work along the way.
 
 ## Memory Security Attacks Independent Study 
-- **[Time Variance Cryptographic Memory Attack Report](https://github.com/elerawlinson/Security_Attacks/blob/main/ST_final-2.pdf)
+- [Time Variance Cryptographic Memory Attack Report](https://github.com/elerawlinson/Security_Attacks/blob/main/ST_final-2.pdf)
 
 
 ## AI/ML Work 
