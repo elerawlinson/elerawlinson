@@ -1,6 +1,10 @@
 # Hi, I'm Elena!   
 I just graduated from Amherst College, where I majored in double-majoring in Mathematics and Computer Science, focused on building things end-to-end, from full-stack applications to fine-tuned deep learning models, and explaining how they work along the way.
 
+## Memory Security Attacks Independent Study 
+
+
+
 ## AI/ML Work 
 - **Emotional Recognition Fine Tuning Project for Deep Learning and Nueral Networks** 
   - [Emotional Recognition Model](https://github.com/riddhisahni/SpeechEmotionRecognition.git)
